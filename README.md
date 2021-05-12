@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an Infrastructure project
+- 🌱 I’m currently learning Business Analytics
+- 📫 How to reach me: agung@outlook.sg
+
 <!--
 **agungsumargo/agungsumargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
