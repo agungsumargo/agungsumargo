@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an Infrastructure project
+- 🔭 I’m currently working on a Digital Infrastructure project
 - 🌱 I’m currently learning Business Analytics
 - 📫 How to reach me: agung@outlook.sg
 
