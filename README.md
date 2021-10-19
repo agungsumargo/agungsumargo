@@ -1,7 +1,7 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on a Digital Infrastructure project
-- 🌱 I’m currently learning Business Analytics
+- 🔭 I’m currently working on BI and Data Analytics project
+- ⚡ Supports Manchester United
 - 📫 How to reach me: agung@outlook.sg
 
 <!--
